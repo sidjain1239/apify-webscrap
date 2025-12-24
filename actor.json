@@ -1,0 +1,9 @@
+{
+  "actorSpecification": 1,
+  "name": "web-scraper-ai",
+  "version": "2.0.0",
+  "title": "Web Scraper AI",
+  "description": "Scrape a web page (HTTP first, browser fallback) and optionally summarize via Pollinations.",
+  "dockerfile": "./Dockerfile",
+  "input": "./INPUT_SCHEMA.json"
+}

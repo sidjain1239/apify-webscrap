@@ -1,0 +1,20 @@
+{
+  "title": "Web Scraper AI",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "url": {
+      "title": "URL",
+      "type": "string",
+      "description": "Page URL to scrape (http/https).",
+      "editor": "textfield"
+    },
+    "prompt": {
+      "title": "AI Prompt (optional)",
+      "type": "string",
+      "description": "If provided, the Actor will request a summary from Pollinations using this prompt.",
+      "editor": "textarea"
+    }
+  },
+  "required": ["url"]
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://example.com/",
+  "methodUsed": "HTTP",
+  "summary": "Nice – you’ve got the canonical “Example Domain” metadata. Here’s a clean wrap and a couple of handy options. If you want something different (format, tone, or use case), tell me and I’ll tailor it.\n\nSimple summary\n- The domain example.com is reserved for documentation and examples, not for real operations or production use.\n- Common practice is to cite it in docs exactly as shown, sometimes with the note not to use it in live operations.\n- The canonical page traditionally serves a minimal description like: “This domain is for use in documentation examples without needing permission. Avoid use in operations.”\n\nA compact, ready-to-use version\n- Title: Example Domain\n- URL: https://example.com/\n- Description: This domain is for use in documentation examples without needing permission. Avoid use in operations.\n- Text (paragraphs): This domain is for use in documentation examples without needing permission. Avoid use in operations.\n- Tables: None\n- Lists: None\n\n alternatives you might want\n- If you’re documenting this for a guide, you could add a note like: “For testing or code examples, consider using example.com (and related domains) or localhost to avoid hitting real services.”\n- If you want a minimal HTML snippet for docs (without heavy formatting), here’s a tiny plain snippet you could drop into a docs page:\n  - Title: Example Domain\n  - Link: https://example.com/\n  - Description: This domain is for use in documentation examples without needing permission. Avoid use in operations.\n\nWould you like me to:\n- Convert this into a different format (Markdown, HTML, JSON)?\n- Add a short note explaining why the domain is reserved and suggesting safe alternatives for testing (e.g., example.org, example.net, localhost, or a local hosts entry)?\n- Create a quick boilerplate page or doc snippet that references this domain in a larger context?",
+  "title": "Example Domain",
+  "description": "This domain is for use in documentation examples without needing permission. Avoid use in operations.",
+  "paragraphs": [
+    "This domain is for use in documentation examples without needing permission. Avoid use in operations."
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://iana.org/domains/example",
+      "text": "Learn more"
+    }
+  ],
+  "tables": [],
+  "lists": [],
+  "uniqueComponents": [
+    {
+      "name": "h1",
+      "content": "Example Domain"
+    }
+  ],
+  "rawHtml": "<!doctype html><html lang=\"en\"><head><title>Example Domain</title><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><style>body{background:#eee;width:60vw;margin:15vh auto;font-family:system-ui,sans-serif}h1{font-size:1.5em}div{opacity:0.8}a:link,a:visited{color:#348}</style><body><div><h1>Example Domain</h1><p>This domain is for use in documentation examples without needing permission. Avoid use in operations.<p><a href=\"https://iana.org/domains/example\">Learn more</a></div></body></html>\n",
+  "techStack": [],
+  "scrapedAt": "2025-12-24T07:51:00.728Z"
+}
