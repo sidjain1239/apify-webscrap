@@ -36,8 +36,8 @@ Fields include:
 
 - `url`, `methodUsed`, `scrapedAt`
 - `title`, `description`, `paragraphs`, `images`, `links`
-- `tables`, `lists`, `uniqueComponents`, `techStack`
-- `summary` (only if `prompt` is provided)
+- `tables`, `lists`, `uniqueComponents`,  `rawHTML`, `techStack`
+- `summary/ai answer` (only if `prompt` is provided)
 
 ## Run locally (Windows)
 
